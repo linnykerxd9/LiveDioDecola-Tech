@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Dio.series/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Dio.series.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dio.series.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dio.series/1.0.0": {
+      "type": "project",
+      "path": "../Dio.series/Dio.series.csproj",
+      "msbuildProject": "../Dio.series/Dio.series.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Dio.series >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Viviane\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Viviane\\Desktop\\Nova pasta\\Digital Inovation One\\cursos\\decola tech 2021\\Projeto cadastro de series .NET - liveDio\\Dio.series.web\\Dio.series.web.csproj",
+      "projectName": "Dio.series.web",
+      "projectPath": "C:\\Users\\Viviane\\Desktop\\Nova pasta\\Digital Inovation One\\cursos\\decola tech 2021\\Projeto cadastro de series .NET - liveDio\\Dio.series.web\\Dio.series.web.csproj",
+      "packagesPath": "C:\\Users\\Viviane\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Viviane\\Desktop\\Nova pasta\\Digital Inovation One\\cursos\\decola tech 2021\\Projeto cadastro de series .NET - liveDio\\Dio.series.web\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Viviane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\Viviane\\Desktop\\Nova pasta\\Digital Inovation One\\cursos\\decola tech 2021\\Projeto cadastro de series .NET - liveDio\\Dio.series\\Dio.series.csproj": {
+              "projectPath": "C:\\Users\\Viviane\\Desktop\\Nova pasta\\Digital Inovation One\\cursos\\decola tech 2021\\Projeto cadastro de series .NET - liveDio\\Dio.series\\Dio.series.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

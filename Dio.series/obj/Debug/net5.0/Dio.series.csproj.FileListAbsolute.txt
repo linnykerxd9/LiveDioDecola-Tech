@@ -1,0 +1,16 @@
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Bootcamp Starter GFT#2 .NET\Projeto cadastro de series .NET\Dio.series\bin\Debug\net5.0\Dio.series.exe
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Bootcamp Starter GFT#2 .NET\Projeto cadastro de series .NET\Dio.series\bin\Debug\net5.0\Dio.series.deps.json
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Bootcamp Starter GFT#2 .NET\Projeto cadastro de series .NET\Dio.series\bin\Debug\net5.0\Dio.series.runtimeconfig.json
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Bootcamp Starter GFT#2 .NET\Projeto cadastro de series .NET\Dio.series\bin\Debug\net5.0\Dio.series.runtimeconfig.dev.json
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Bootcamp Starter GFT#2 .NET\Projeto cadastro de series .NET\Dio.series\bin\Debug\net5.0\Dio.series.dll
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Bootcamp Starter GFT#2 .NET\Projeto cadastro de series .NET\Dio.series\bin\Debug\net5.0\ref\Dio.series.dll
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Bootcamp Starter GFT#2 .NET\Projeto cadastro de series .NET\Dio.series\bin\Debug\net5.0\Dio.series.pdb
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Bootcamp Starter GFT#2 .NET\Projeto cadastro de series .NET\Dio.series\obj\Debug\net5.0\Dio.series.csprojAssemblyReference.cache
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Bootcamp Starter GFT#2 .NET\Projeto cadastro de series .NET\Dio.series\obj\Debug\net5.0\Dio.series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Bootcamp Starter GFT#2 .NET\Projeto cadastro de series .NET\Dio.series\obj\Debug\net5.0\Dio.series.AssemblyInfoInputs.cache
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Bootcamp Starter GFT#2 .NET\Projeto cadastro de series .NET\Dio.series\obj\Debug\net5.0\Dio.series.AssemblyInfo.cs
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Bootcamp Starter GFT#2 .NET\Projeto cadastro de series .NET\Dio.series\obj\Debug\net5.0\Dio.series.csproj.CoreCompileInputs.cache
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Bootcamp Starter GFT#2 .NET\Projeto cadastro de series .NET\Dio.series\obj\Debug\net5.0\Dio.series.dll
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Bootcamp Starter GFT#2 .NET\Projeto cadastro de series .NET\Dio.series\obj\Debug\net5.0\ref\Dio.series.dll
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Bootcamp Starter GFT#2 .NET\Projeto cadastro de series .NET\Dio.series\obj\Debug\net5.0\Dio.series.pdb
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Bootcamp Starter GFT#2 .NET\Projeto cadastro de series .NET\Dio.series\obj\Debug\net5.0\Dio.series.genruntimeconfig.cache

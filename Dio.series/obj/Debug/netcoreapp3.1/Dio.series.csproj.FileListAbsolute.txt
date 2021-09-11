@@ -1,0 +1,9 @@
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\decola tech 2021\Projeto cadastro de series .NET - liveDio\Dio.series\bin\Debug\netcoreapp3.1\Dio.series.deps.json
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\decola tech 2021\Projeto cadastro de series .NET - liveDio\Dio.series\bin\Debug\netcoreapp3.1\Dio.series.dll
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\decola tech 2021\Projeto cadastro de series .NET - liveDio\Dio.series\bin\Debug\netcoreapp3.1\Dio.series.pdb
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\decola tech 2021\Projeto cadastro de series .NET - liveDio\Dio.series\obj\Debug\netcoreapp3.1\Dio.series.csproj.AssemblyReference.cache
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\decola tech 2021\Projeto cadastro de series .NET - liveDio\Dio.series\obj\Debug\netcoreapp3.1\Dio.series.AssemblyInfoInputs.cache
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\decola tech 2021\Projeto cadastro de series .NET - liveDio\Dio.series\obj\Debug\netcoreapp3.1\Dio.series.AssemblyInfo.cs
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\decola tech 2021\Projeto cadastro de series .NET - liveDio\Dio.series\obj\Debug\netcoreapp3.1\Dio.series.csproj.CoreCompileInputs.cache
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\decola tech 2021\Projeto cadastro de series .NET - liveDio\Dio.series\obj\Debug\netcoreapp3.1\Dio.series.dll
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\decola tech 2021\Projeto cadastro de series .NET - liveDio\Dio.series\obj\Debug\netcoreapp3.1\Dio.series.pdb
